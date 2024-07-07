@@ -153,9 +153,6 @@
 ###
 
 <strong align="left">Connect with me:</strong>
-
-###
-
 - [LinkedIn](https://www.linkedin.com/in/dwididitp/)
 - [Telegram](https://t.me/dwididitp)
 - [Email](mailto:didit@dwidi.dev)
