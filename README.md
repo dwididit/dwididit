@@ -66,7 +66,7 @@
 ###
 
 <div align="left">
-  <img src="http://dwidi.dev/wp-content/uploads/2024/06/rabbitmq.png" height="40" alt="rabbitmq logo"  />
+  <img src="https://dwidi.com/wp-content/uploads/2024/07/rabbitmq-logo.png" height="40" alt="rabbitmq logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" height="40" alt="apachekafka logo"  />
   <img width="12" />
