@@ -40,6 +40,8 @@
   <img width="12" />
   <img src="https://dwidi.com/wp-content/uploads/2024/07/nestjs-480.png" height="40" alt="nestjs logo"  />
   <img width="12" />
+  <img src="https://dwidi.com/wp-content/uploads/2024/07/laravel-96.png" alt="laravel logo"  />
+  <img width="12" />
 </div>
 
 ###
