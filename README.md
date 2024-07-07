@@ -152,7 +152,7 @@
 
 ###
 
-<strong align="left">Social Media</strong>
+<strong align="left">Connect with me:</strong>
 
 ###
 
