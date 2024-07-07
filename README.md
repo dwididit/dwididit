@@ -1,16 +1,13 @@
-<h1 align="center">Hi, my name is Dwi Didit Prasetiyo. I am a Backend Developer.</h1>
+<h1 align="left">Hi, my name is Dwi Didit Prasetiyo. I am a Backend Developer.</h1>
 
 ###
 
-<h2 align="center"></h2>
+
+<h2 align="left">Programming Languages</h2>
 
 ###
 
-<h2 align="center">Programming Languages</h2>
-
-###
-
-<div align="center">
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
@@ -24,11 +21,11 @@
 
 ###
 
-<h2 align="center">Tech Stack</h2>
+<h2 align="left">Tech Stack</h2>
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
@@ -62,11 +59,11 @@
 
 ###
 
-<h2 align="center">Database</h2>
+<h2 align="left">Database</h2>
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
@@ -76,11 +73,11 @@
 
 ###
 
-<h3 align="center">Social Media</h3>
+<h3 align="left">Social Media</h3>
 
 ###
 
-<div align="center">
+<div align="left">
   <a href="https://www.linkedin.com/in/dwididitp/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
@@ -91,6 +88,6 @@
 
 ###
 
-<p align="center">You can contact me at: didit@dwidi.dev</p>
+<p align="left">You can contact me at: didit@dwidi.dev</p>
 
 ###
