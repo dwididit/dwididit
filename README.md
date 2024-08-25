@@ -141,6 +141,21 @@
 
 ###
 
+<h2 align="left">Logging & Monitoring</h2>
+
+###
+
+<div align="left">
+  <img src="https://dwidi.com/wp-content/uploads/2024/08/icons8-elasticsearch-240.png" height="40" alt="elasticsearch"  />
+  <img width="12" />
+  <img src="https://dwidi.com/wp-content/uploads/2024/08/icons8-logstash-240.png" height="40" alt="logstash"  />
+  <img width="12" />
+  <img src="https://dwidi.com/wp-content/uploads/2024/08/icons8-kibana-240.png" height="40" alt="kibana"  />
+  <img width="12" />
+</div>
+
+###
+
 <h2 align="left">Cloud Platforms</h2>
 
 ###
