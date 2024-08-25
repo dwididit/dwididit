@@ -122,6 +122,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" height="40" alt="graphql logo"  />
   <img width="12" />
+  <img src="https://dwidi.com/wp-content/uploads/2024/08/grpc-icon-color.png" height="40" alt="grpc"  />
+  <img width="12" />
 </div>
 
 ###
@@ -138,6 +140,18 @@
   <img src="https://dwidi.com/wp-content/uploads/2024/07/github-512.png" height="40" alt="gitlab logo"  />
   <img width="12" />
 </div>
+
+###
+
+<h2 align="left">Code Quality & Static Analysis</h2>
+
+###
+
+<div align="left">
+  <img src="https://dwidi.com/wp-content/uploads/2024/08/sonarlint.png" height="40" alt="sonarlint"  />
+</div>
+
+###
 
 ###
 
