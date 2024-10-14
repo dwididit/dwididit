@@ -10,6 +10,8 @@
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
+  <img src="https://dwidi.com/wp-content/uploads/2024/10/kotlin.png" height="40" alt="kotlin logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://dwidi.com/wp-content/uploads/2024/09/go-lang.png" height="40" alt="go logo"  />
