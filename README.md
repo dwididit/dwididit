@@ -26,7 +26,7 @@
 
 ###
 
-<h2 align="left">Frameworks</h2>
+<h2 align="left">Backend Frameworks</h2>
 
 ###
 
@@ -43,15 +43,24 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="fastapi logo"  />
   <img width="12" />
+  <img src="https://dwidi.com/wp-content/uploads/2024/07/nestjs-480.png" height="40" alt="nestjs logo"  />
+  <img width="12" />
+  <img src="https://dwidi.com/wp-content/uploads/2024/07/laravel-96.png" height="40" alt="laravel logo"  />
+  <img width="12" />
+</div>
+
+###
+
+<h2 align="left">Frontend Frameworks</h2>
+
+###
+
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vuejs logo"  />
   <img width="12" />
   <img src="https://dwidi.com/wp-content/uploads/2024/11/angular-icon.svg" height="40" alt="angular logo"  />
   <img width="12" />
   <img src="https://dwidi.com/wp-content/uploads/2024/12/react.png" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://dwidi.com/wp-content/uploads/2024/07/nestjs-480.png" height="40" alt="nestjs logo"  />
-  <img width="12" />
-  <img src="https://dwidi.com/wp-content/uploads/2024/07/laravel-96.png" height="40" alt="laravel logo"  />
   <img width="12" />
 </div>
 
