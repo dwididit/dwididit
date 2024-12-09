@@ -2,7 +2,6 @@
 
 ###
 
-
 <h2 align="left">Programming Languages</h2>
 
 ###
@@ -78,6 +77,20 @@
   <img src="https://dwidi.com/wp-content/uploads/2024/07/mysql-480.png" height="40" alt="mysql logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+  <img width="12" />
+</div>
+
+###
+
+<h2 align="left">Data Processing & Orchestration</h2>
+
+###
+
+<div align="left">
+  <img src="https://dwidi.com/wp-content/uploads/2024/12/Apache-Spark.png" height="40" alt="apache spark"  />
+  <img width="12" />
+  <img src="https://dwidi.com/wp-content/uploads/2024/12/Apache-Airflow.png" height="40" alt="apache airflow"  />
+  <img width="12" />
 </div>
 
 ###
