@@ -47,6 +47,8 @@
   <img width="12" />
   <img src="https://dwidi.com/wp-content/uploads/2024/11/angular-icon.svg" height="40" alt="angular logo"  />
   <img width="12" />
+  <img src="https://dwidi.com/wp-content/uploads/2024/12/react.png" height="40" alt="react logo"  />
+  <img width="12" />
   <img src="https://dwidi.com/wp-content/uploads/2024/07/nestjs-480.png" height="40" alt="nestjs logo"  />
   <img width="12" />
   <img src="https://dwidi.com/wp-content/uploads/2024/07/laravel-96.png" height="40" alt="laravel logo"  />
