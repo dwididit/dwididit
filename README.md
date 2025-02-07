@@ -70,7 +70,7 @@
 ###
 
 <div align="left">
-  <img src="https://dwidi.com/wp-content/uploads/2025/02/icons8-android-480.png" height="50" alt="android logo"  />
+  <img src="https://dwidi.com/wp-content/uploads/2025/02/icons8-android-480.png" height="40" alt="android logo"  />
   <img width="12" />
 </div>
 
