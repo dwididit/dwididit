@@ -65,6 +65,17 @@
 
 ###
 
+<h2 align="left">Mobile Development</h2>
+
+###
+
+<div align="left">
+  <img src="https://dwidi.com/wp-content/uploads/2025/02/icons8-android-480.png" height="40" alt="android logo"  />
+  <img width="12" />
+</div>
+
+###
+
 <h2 align="left">Database</h2>
 
 ###
