@@ -51,9 +51,9 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vuejs logo"  />
-  <img width="12" />
   <img src="https://dwidi.com/wp-content/uploads/2024/11/angular-icon.svg" height="40" alt="angular logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vuejs logo"  />
   <img width="12" />
   <img src="https://dwidi.com/wp-content/uploads/2024/12/react.png" height="40" alt="react logo"  />
   <img width="12" />
